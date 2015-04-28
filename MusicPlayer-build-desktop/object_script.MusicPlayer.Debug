@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\musicplayer.o
+./debug\playlist.o
+./debug\musiclrc.o
+./debug\IconButton.o
+./debug\setwidget.o
+./debug\moc_musicplayer.o
+./debug\moc_playlist.o
+./debug\moc_musiclrc.o
+./debug\moc_iconButton.o
+./debug\moc_setwidget.o
+./debug\qrc_images.o
+);

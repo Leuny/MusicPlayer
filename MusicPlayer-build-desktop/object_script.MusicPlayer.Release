@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\musicplayer.o
+./release\playlist.o
+./release\musiclrc.o
+./release\IconButton.o
+./release\setwidget.o
+./release\moc_musicplayer.o
+./release\moc_playlist.o
+./release\moc_musiclrc.o
+./release\moc_iconButton.o
+./release\moc_setwidget.o
+./release\qrc_images.o
+);

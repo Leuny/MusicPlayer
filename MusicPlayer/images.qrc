@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/background1.png</file>
+        <file>images/background2.png</file>
+        <file>images/background3.png</file>
+        <file>images/background4.png</file>
+        <file>images/background5.png</file>
+        <file>images/clear.png</file>
+        <file>images/largeclose.png</file>
+        <file>images/largelove.png</file>
+        <file>images/largelrc.png</file>
+        <file>images/largemin.png</file>
+        <file>images/largeset.png</file>
+        <file>images/list.png</file>
+        <file>images/listcircle.png</file>
+        <file>images/next.png</file>
+        <file>images/open.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/previous.png</file>
+        <file>images/random.png</file>
+        <file>images/singlecircle.png</file>
+        <file>images/smallclose.png</file>
+        <file>images/smalllove.png</file>
+        <file>images/smalllrc.png</file>
+        <file>images/smallmin.png</file>
+        <file>images/smallset.png</file>
+        <file>images/trayIcon.png</file>
+        <file>MusicPlayer.ico</file>
+    </qresource>
+</RCC>
